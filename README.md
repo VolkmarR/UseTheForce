@@ -13,10 +13,10 @@ There is a mysterious code located under ./UseTheForce/Program.cs.
 Unfortunately, you didn't bring a computer and a **c#** compiler. **Are you smart enough to trace the program's steps in your mind?**
 
 Here are some options:
-1.  use your force, get your rubber duck!
-2.  use your force, get your rubber duck
-3.  get your rubber duck, use your force!
-4.  get your rubber duck, force use your!
+1.  ``use your force, get your rubber duck!``
+2.  ``use your force, get your rubber duck``
+3.  ``get your rubber duck, use your force!``
+4.  ``get your rubber duck, force use your!``
 
 
 ```
