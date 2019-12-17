@@ -16,4 +16,4 @@ Here are some options:
 1.  use your force, get your rubber duck!
 2.  use your force, get your rubber duck
 3.  get your rubber duck, use your force!
-4.  get your rubber duck force use your!
+4.  get your rubber duck, force use your!
