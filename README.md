@@ -10,6 +10,50 @@ The software outputs the following text:
 There is a mysterious code located under ./UseTheForce/Program.cs.
 **Execute it and insert the result as new password.**
 ```
+
+```csharp
+using System;
+
+namespace UseTheForce
+{
+	class YodaRiddle
+	{
+		public static string Message => "get your ";
+
+		private static void Talk(int index = 0)
+		{
+			if (index < 4)
+				Talk(index + 1);
+
+
+			if (index == 1)
+			{
+				Console.Write(", ");
+			}
+
+			if (index == 0)
+				Console.Write(Message + "rubber duck ".Trim());
+
+			if (index % 2 == 0 && index > 0 && index < 4)
+				Console.Write("force ".Trim());
+
+			if (index == 3)
+				Console.Write("use your ");
+		}
+
+		static void Main(string[] args)
+		{
+			Talk();
+			Console.Write('!');
+		}
+	}
+}
+
+
+
+```
+
+
 Unfortunately, you didn't bring a computer and a **c#** compiler. **Are you smart enough to trace the program's steps in your mind?**
 
 Here are some options:
