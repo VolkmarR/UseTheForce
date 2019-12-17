@@ -18,8 +18,8 @@ Here are some options:
 3.  get your rubber duck, use your force!
 4.  get your rubber duck, force use your!
 
-*
 
+```
                    ____                  
                 _.' :  `._               
             .-.'`.  ;   .'`.-.           
@@ -55,3 +55,4 @@ Here are some options:
          :-""-.`./-.'     /    `.___.'   
                \ `t  ._  /  bug          
                 "-.t-._:'
+```
