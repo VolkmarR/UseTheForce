@@ -1,4 +1,4 @@
-![](Acs_Im_Logo.png)
+<img src="Acs_Im_Logo.png" width="220" height="60" align="right">
 
 # UseTheForce Riddle
 
