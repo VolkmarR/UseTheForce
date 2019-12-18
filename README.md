@@ -85,9 +85,9 @@ namespace UseTheForce
 
 Unfortunately, you didn't bring a computer and a **c#** compiler. **Are you smart enough to trace the program's steps in your mind?**
 
+<img src="qrCode.png" width="200" height="200" align="right">
 Here are some options:
 
-<img src="qrCode.png" width="200" height="200" align="right">
 1. ``use your force, get your rubber duck!``
 
 2. ``use your force, get your rubber duck``
