@@ -87,6 +87,7 @@ Unfortunately, you didn't bring a computer and a **c#** compiler. **Are you smar
 
 Here are some options:
 
+<img src="qrCode.png" width="200" height="200" align="right">
 1. ``use your force, get your rubber duck!``
 
 2. ``use your force, get your rubber duck``
@@ -94,5 +95,3 @@ Here are some options:
 3. ``get your rubber duck, use your force!``
 
 4. ``get your rubber duck, force use your!``
-
-<img src="qrCode.png" width="200" height="200" align="right">
