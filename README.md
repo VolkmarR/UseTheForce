@@ -11,9 +11,40 @@ There is a mysterious code located under ./UseTheForce/Program.cs.
 **Execute it and insert the result as new password.**
 ```
 
+```
+                    ____
+                 _.' :  `._
+             .-.'`.  ;   .'`.-.
+    __      / : ___\ ;  /___ ; \      __
+  ,'_ ""--.:__;".-.";: :".-.":__;.--"" _`,
+  :' `.t""--.. '<@.`;_  ',@>` ..--""j.' `;
+       `:-.._J '-.-'L__ `-- ' L_..-;'
+         "-.__ ;  .-"  "-.  : __.-"
+             L ' /.------.\ ' J
+              "-.   "--"   .-"
+             __.l"-:_JL_;-";.__
+          .-j/'.;  ;""""  / .'\"-.
+        .' /:`. "-.:     .-" .';  `.
+     .-"  / ;  "-. "-..-" .-"  :    "-.
+  .+"-.  : :      "-.__.-"      ;-._   \
+  ; \  `.; ;                    : : "+. ;
+  :  ;   ; ;                    : ;  : \:
+ : `."-; ;  ;                  :  ;   ,/;
+  ;    -: ;  :                ;  : .-"'  :
+  :\     \  : ;             : \.-"      :
+   ;`.    \  ; :            ;.'_..--  / ;
+   :  "-.  "-:  ;          :/."      .'  :
+     \       .-`.\        /t-""  ":-+.   :
+      `.  .-"    `l    __/ /`. :  ; ; \  ;
+        \   .-" .-"-.-"  .' .'j \  /   ;/
+         \ / .-"   /.     .'.' ;_:'    ;
+          :-""-.`./-.'     /    `.___.'
+                \ `t  ._  /  bug :F_P:
+                 "-.t-._:'
+```
+
 ```csharp
 using System;
-
 namespace UseTheForce
 {
 	class YodaRiddle
@@ -48,55 +79,16 @@ namespace UseTheForce
 		}
 	}
 }
-
-
-
 ```
-
 
 Unfortunately, you didn't bring a computer and a **c#** compiler. **Are you smart enough to trace the program's steps in your mind?**
 
 Here are some options:
-1.  ``use your force, get your rubber duck!``
-2.  ``use your force, get your rubber duck``
-3.  ``get your rubber duck, use your force!``
-4.  ``get your rubber duck, force use your!``
 
+1. ``use your force, get your rubber duck!``
 
-```
-                   ____                  
-                _.' :  `._               
-            .-.'`.  ;   .'`.-.           
-   __      / : ___\ ;  /___ ; \      __  
- ,'_ ""--.:__;".-.";: :".-.":__;.--"" _`,
- :' `.t""--.. '<@.`;_  ',@>` ..--""j.' `;
-      `:-.._J '-.-'L__ `-- ' L_..-;'     
-        "-.__ ;  .-"  "-.  : __.-"       
-            L ' /.------.\ ' J           
-             "-.   "--"   .-"            
-            __.l"-:_JL_;-";.__           
-         .-j/'.;  ;""""  / .'\"-.        
-       .' /:`. "-.:     .-" .';  `.      
-    .-"  / ;  "-. "-..-" .-"  :    "-.   
- .+"-.  : :      "-.__.-"      ;-._   \  
- ; \  `.; ;                    : : "+. ; 
- :  ;   ; ;                    : ;  : \: 
- ;  :   ; :                    ;:   ;  : 
-: \  ;  :  ;                  : ;  /  :: 
-;  ; :   ; :                  ;   :   ;: 
-:  :  ;  :  ;                : :  ;  : ; 
-;\    :   ; :                ; ;     ; ; 
-: `."-;   :  ;              :  ;    /  ; 
- ;    -:   ; :              ;  : .-"   : 
- :\     \  :  ;            : \.-"      : 
-  ;`.    \  ; :            ;.'_..--  / ; 
-  :  "-.  "-:  ;          :/."      .'  :
-   \         \ :          ;/  __        :
-    \       .-`.\        /t-""  ":-+.   :
-     `.  .-"    `l    __/ /`. :  ; ; \  ;
-       \   .-" .-"-.-"  .' .'j \  /   ;/ 
-        \ / .-"   /.     .'.' ;_:'    ;  
-         :-""-.`./-.'     /    `.___.'   
-               \ `t  ._  /  bug          
-                "-.t-._:'
-```
+2. ``use your force, get your rubber duck``
+
+3. ``get your rubber duck, use your force!``
+
+4. ``get your rubber duck, force use your!``
