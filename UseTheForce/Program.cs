@@ -18,7 +18,7 @@ namespace UseTheForce
 			}
 
 			if (index == 0)
-				Console.Write(Message + "rubber duck ".Trim());
+				Console.Write(Message + "cookie monster ".Trim());
 
 			if (index % 2 == 0 && index > 0 && index < 4)
 				Console.Write("force ".Trim());
